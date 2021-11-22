@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KIM-ME21
 - 👀 I’m interested in ... Data Analytics
 - 🌱 I’m currently learning ... R Programming 
-- 💞️ I’m looking to collaborate on ... Tree-Based Regession
+- 💞️ I’m looking to collaborate on ... Classification and Regression Tree Analysis in R
 - 📫 How to reach me ... Message me
 
 <!---
